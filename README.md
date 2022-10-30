@@ -27,3 +27,6 @@ That CSV file is now a replacement for the funding rounds, and it allowed me to 
 relationships in the database and make location queries. 
 
 You can read my complete thesis at : https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/39141/Babashahiashtiani_Kasra_2021_Masters.pdf?sequence=2&isAllowed=y
+
+This project was done with funding from the Social Sciences and Humanities Research Council Insights grant under the supervision of Dr. Kean Birch from York University.
+Read more about the project at : https://rentiership.com/
